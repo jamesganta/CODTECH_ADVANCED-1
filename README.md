@@ -67,6 +67,6 @@ Python
 
 model.fit(X_train, y_train)
 
-# Outpt of the Task
+# Output of the Task
 ![Screenshot 1946-10-28 at 12 59 10 PM](https://github.com/user-attachments/assets/700b9db5-601e-4f04-8991-cebd6792f1d9)
 
