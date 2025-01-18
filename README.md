@@ -2,7 +2,7 @@
 
 Name : James Timothy Ganta Company : CODTECH IT SOLUTIONS ID : CT6WDS2703 Domain : Machine Learning Duration : 6 weeks (Dec 5th 2024 to Jan 20th 2025)
 
-#Overview of the task
+# Overview of the task
 
 Sentiment Analysis with NLP
 
