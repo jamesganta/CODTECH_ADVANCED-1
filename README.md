@@ -1,6 +1,14 @@
 # CODTECH_ADVANCED-1
 
-Name : James Timothy Ganta Company : CODTECH IT SOLUTIONS ID : CT6WDS2703 Domain : Machine Learning Duration : 6 weeks (Dec 5th 2024 to Jan 20th 2025)
+Name : James Timothy Ganta
+
+Company : CODTECH IT SOLUTIONS 
+
+ID : CT6WDS2703 
+
+Domain : Machine Learning 
+
+Duration : 6 weeks (Dec 5th 2024 to Jan 20th 2025)
 
 # Overview of the task
 
@@ -59,5 +67,6 @@ Python
 
 model.fit(X_train, y_train)
 
+# Outpt of the Task
 ![Screenshot 1946-10-28 at 12 59 10 PM](https://github.com/user-attachments/assets/700b9db5-601e-4f04-8991-cebd6792f1d9)
 
